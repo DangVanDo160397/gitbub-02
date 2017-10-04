@@ -1,0 +1,190 @@
+html,body{
+	margin:0px;
+	padding:0px;
+}
+.clear{
+	clear:both;
+}
+a{
+  color:#000;
+}
+#wrapper{
+}
+
+#header{
+	text-align:right;
+	background:#ddd;
+}
+
+.logo{
+	float:left;
+	width:35%;
+	text-align:right;
+}
+.logo h3{
+	
+}
+.logo h3.first{
+	font-size:40px;
+	font-weight:700;
+	padding:0px;
+	margin:0px;
+}
+h3.second{
+	font-size:70px;
+	font-weight:400;
+	padding:0px;
+	margin:0px;
+	text-transform:uppercase;
+}
+.logo p{
+	font-size:13px;
+	margin:0px;
+	padding:0px;
+	text-transform:uppercase;
+}
+.header-slogan{
+	float:right;
+	width:65%;
+	text-align:right;
+}
+.header-slogan p{
+	margin-top:110px;
+	text-transform:uppercase;
+	font-weight:700;
+	padding-right:50px;
+}
+.menu {
+	text-align:right;
+	text-transform:uppercase;
+	padding-right:100px;
+}
+.menu ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+.menu ul li{
+	display:inline-block;
+	padding:3px 20px;
+}
+.menu li:hover{
+	background:#0082b2;
+}
+.menu li:hover a{
+	color:#fff;
+}
+
+#content{
+	text-align:center;
+}
+.content-left{
+	float:left;
+	width:20%;
+	text-align:left;
+}
+.news{
+	
+}
+.news-title{
+	text-align:center;
+	background:#ddd;
+	color:#000;
+	text-transform:uppercase;
+	font-weight:700;
+	height:50px;
+	line-height:50px;
+}
+.search a{
+	display:block;
+	text-align:center;
+}
+.list-link-post{
+	padding:5px;
+	background:#ddd;
+	color:#000;
+	font-size:20px;
+	height:400px;
+}
+.content-left ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	font-size:20px;
+}
+.content-right{
+	margin-top:60px;
+	float:left;
+	width:78%;
+	padding:1%;
+	text-align:left;
+	font-size:20px;
+}
+.content-right ul{
+	margin:0px;
+	padding:0 0 0 20px;
+}
+.main-form li{
+	padding-top:3px;
+	padding-bottom:3px;
+}
+.content-right input,.content-right select{
+	width:150px;
+	margin:3px;
+	height:20px;
+}
+.content-right select{
+	height:26px;
+	width:155px;
+}
+.content-right button{
+	padding:4px 12px;
+	font-weight:700;
+	margin-right:-4px;
+}
+.left{
+	float:left;
+	width:50%;
+}
+.right{
+	float:left;
+	width:50%;
+}
+.fill-form{
+	padding:5px;
+	border:1px solid #ddd;
+}
+.main-form{
+	
+}
+.form-left{
+	float:left;
+	width:50%;
+}
+.form-right{
+	float:left;
+	width:50%;
+}
+.result{
+	margin-top:5px;
+}
+.post{}
+.post-title h3{
+	font-size:18px;
+}
+.post-thumb{
+	float:left;
+	width:20%;
+}
+.descript{
+	float:left;
+	width:75%;
+}
+.descript p{
+	font-size:20px;
+	padding-left:10px;
+}
+span.post-time{
+	font-size:16px;
+	font-weight:400;
+}

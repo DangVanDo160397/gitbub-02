@@ -1,0 +1,167 @@
+html,body{
+	margin:0px;
+	padding:0px;
+}
+a{
+	color:#000;
+}
+.clear{
+	clear:both;
+}
+#wrapper{
+	
+}
+#header{
+	background:#ddd;
+	color:#fff;
+	padding-left:5px;
+}
+.logo{
+	float:left;
+	width:45%;
+	
+}
+.logo h3{
+	font-size:40px;
+	text-transform:uppercase;
+	display:inline-block;
+	margin:0px; padding:0px;
+	position:relative;
+}
+h3.first{
+	border-bottom:2px solid #fff;
+}
+h3.key{
+	position:absolute;
+	left:39%;
+	top:3%;
+}
+#header p{
+	border-top:1px solid #fff;
+	font-size:18px;
+	text-transform:uppercase;
+}
+.header-thumb{
+	float:left;
+	width:55%;
+}
+
+#content{
+	
+}
+
+.menu ul{
+	text-align:right;
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.menu ul li{
+	font-size:20px;
+	padding:4px 7px;
+	margin-left:-3px;
+	border-right:1px solid #ddd;
+	display:inline-block;
+}
+.menu ul li:last-child{
+	border-right:none;
+}
+
+.content-left{
+	float:left;
+	width:25%;
+	text-align:left;
+}
+.xuatban .title{
+	margin-top:20px;
+	background:#ddd;
+	color:#000;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-weight:700;
+}
+.main-xuatban{
+	border:2px solid #ddd;
+	padding:20px;
+}
+.main-xuatban select{
+	height:30px;
+	width:30%;
+}
+.main-xuatban strong{
+	padding-right:30px;
+}
+
+.main-menu ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.main-menu ul li{
+	font-size:20px;
+	padding:4px;
+	border-top:1px solid #000;
+	border-left:1px solid #000;
+	border-right:1px solid #000;
+	background:#ddd;
+	color:#000;
+}
+.main-menu ul li:last-child{
+	padding:4px;
+	border-bottom:1px solid #000;
+}
+
+
+.content-right{
+	float:left;
+	width:73%;
+	padding:1%;
+	font-size:20px;
+}
+
+.choose ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	border-top:2px solid #ddd;
+	border-bottom:2px solid #ddd;
+}
+.choose ul li{
+	display:inline-block;
+	padding:0px 70px;
+}
+.choose ul li:last-child{
+	padding:0px 0px 0px 120px;
+}
+.choose ul li:first-child{
+	padding:0px 120px 0px 0px;
+}
+
+.list-post{
+	
+}
+.post-title{
+	padding:10px 0; 
+}
+.post .post-title a{
+	font-weight:700;
+}
+.post .post-thumb{
+	float:left;
+	width:33.333%;
+}
+.post-text{
+	float:left;
+	width:66.666%;
+}
+.post-text p:first-child{
+	padding-top:60px;
+	font-weight:700;
+}
+span.post-time{
+	font-weight:400;
+	font-size:15px;
+}
+
